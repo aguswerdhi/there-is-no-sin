@@ -1,0 +1,105 @@
+{
+    "scenes": [
+      {
+        "text": "Kamu melihat seorang anak mencuri buah karena lapar.",
+        "choices": [
+          {
+            "text": "Tegur dan ajak dia makan bersama.",
+            "karma": 1,
+            "consequence": "Ia belajar kasih dari tindakanmu. Ia berjanji untuk tidak mencuri lagi."
+          },
+          {
+            "text": "Biarkan, karena kamu pun tak mau repot.",
+            "karma": -1,
+            "consequence": "Anak itu terus mencuri hingga terbiasa. Suatu hari ia tertangkap dan dihukum."
+          },
+          {
+            "text": "Berikan buah tanpa berkata apa-apa.",
+            "karma": 0,
+            "consequence": "Anak itu terkejut dan berterima kasih, namun tidak mengubah kebiasaannya."
+          }
+        ]
+      },
+      {
+        "text": "Kamu tahu kebenaran yang bisa menggulingkan seorang pemimpin licik.",
+        "choices": [
+          {
+            "text": "Sebarkan dengan risiko kekacauan.",
+            "karma": -1,
+            "consequence": "Kebenaran membelah umat, menciptakan perang. Banyak yang kehilangan hidupnya."
+          },
+          {
+            "text": "Tahan, dan ubah dari dalam secara perlahan.",
+            "karma": 1,
+            "consequence": "Butuh waktu, tapi benih perubahan tumbuh. Pemimpin itu mulai berubah sedikit demi sedikit."
+          },
+          {
+            "text": "Bersikap netral dan biarkan orang lain yang memutuskan.",
+            "karma": 0,
+            "consequence": "Pemimpin tetap berkuasa, tapi keadaan menjadi semakin buruk. Orang mulai meragukan kebenaran."
+          }
+        ]
+      },
+      {
+        "text": "Kamu menemukan seekor anjing terluka di jalan.",
+        "choices": [
+          {
+            "text": "Bawa anjing itu ke dokter hewan.",
+            "karma": 1,
+            "consequence": "Anjing itu sembuh dan menjadi teman setia. Kamu merasa puas karena menolongnya."
+          },
+          {
+            "text": "Biarkan anjing itu, karena kamu terlalu sibuk.",
+            "karma": -1,
+            "consequence": "Anjing itu mati karena terluka terlalu lama. Kamu merasa bersalah."
+          },
+          {
+            "text": "Coba rawat anjing itu dengan cara kamu sendiri.",
+            "karma": 0,
+            "consequence": "Anjing itu sembuh sebagian, namun tetap memiliki cacat fisik. Kamu merasa tidak cukup berbuat lebih."
+          }
+        ]
+      },
+      {
+        "text": "Kamu dihadapkan dengan pilihan untuk memilih antara keluarga atau pekerjaan penting.",
+        "choices": [
+          {
+            "text": "Pilih keluarga, meski pekerjaan tertunda.",
+            "karma": 1,
+            "consequence": "Keluargamu bahagia dan hubunganmu menjadi lebih erat. Namun, pekerjaanmu tertunda dan tekanan meningkat."
+          },
+          {
+            "text": "Pilih pekerjaan, meski harus meninggalkan keluarga.",
+            "karma": -1,
+            "consequence": "Keluargamu kecewa dan hubungan menjadi tegang. Pekerjaan berhasil, namun kamu merasa kehilangan."
+          },
+          {
+            "text": "Buat kompromi, bagi waktu antara keluarga dan pekerjaan.",
+            "karma": 0,
+            "consequence": "Kamu berhasil menyeimbangkan keduanya, namun merasa sedikit tertekan karena tidak bisa memberi yang terbaik pada keduanya."
+          }
+        ]
+      },
+      {
+        "text": "Tiba-tiba kamu diberi kesempatan untuk mendapatkan kekayaan yang luar biasa, namun dengan cara yang meragukan.",
+        "choices": [
+          {
+            "text": "Ambil kesempatan itu, meski kamu tahu cara yang digunakan salah.",
+            "karma": -2,
+            "consequence": "Kekayaan datang dengan harga yang mahal. Kamu merasa hampa meskipun kaya."
+          },
+          {
+            "text": "Tolak kesempatan itu, meski sangat menggiurkan.",
+            "karma": 2,
+            "consequence": "Kamu merasa bangga dengan keputusanmu, meskipun hidup tetap sulit."
+          },
+          {
+            "text": "Pertimbangkan dulu, dan coba cari cara yang lebih baik untuk mendapatkan kekayaan.",
+            "karma": 0,
+            "consequence": "Kamu gagal dalam usaha itu, namun tidak menyesal karena tidak melakukan hal yang salah."
+          }
+        ]
+      }
+    ]
+  }
+  
