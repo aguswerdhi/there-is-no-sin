@@ -31,3 +31,13 @@ Untuk memulai perjalananmu, pertama kamu perlu meng-clone repositori game ini ke
 
 ```bash
 git clone https://github.com/aguswerdhi/there-is-no-sin.git
+
+```
+### 2. Menjalankan Permainan
+
+Setelah menginstal dependensi, jalankan permainan dengan perintah berikut di terminal:
+
+```bash
+python3 game.py
+
+
