@@ -1,7 +1,6 @@
 # There Is No Sin ✨  
 ![GitHub Views](https://komarev.com/ghpvc/?username=aguswerdhi&repo=there-is-no-sin&style=flat-square)  
 ![Language](https://img.shields.io/badge/language-python3-blue?style=flat-square)  
-![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
 
 *A terminal-based philosophical narrative game.*  
 **Dalam dunia yang belum ternoda, kamu adalah entitas pertama yang memiliki kehendak. Lewat pilihan-pilihan etis, kamu membentuk fondasi dari peradaban — apakah dunia akan tetap suci, atau perlahan jatuh ke dalam dosa?**
