@@ -12,7 +12,7 @@
 **"There Is No Sin"** adalah eksperimen interaktif tentang kebebasan moral. Game ini lahir dari pemikiran:  
 > *Jika sebuah dunia diciptakan dalam keadaan bersih tanpa dosa — apakah manusia akan tetap memilih jalan yang benar?*
 
-Proyek ini dibuat dengan cinta oleh [@aguswerdhi](https://github.com/aguswerdhi), seorang pengembang yang percaya bahwa terminal pun bisa menjadi tempat renungan dan perenungan.
+Proyek ini dibuat dengan ketamakan oleh [@aguswerdhi](https://github.com/aguswerdhi), seorang pengembang yang percaya bahwa terminal pun bisa menjadi tempat renungan dan perenungan.
 
 Bahasa pemrograman: **Python 3**  
 Bahasa cerita: **Bahasa Indonesia dan Sedikit Bahasa Inggris**  
