@@ -16,7 +16,7 @@
 Proyek ini dibuat dengan cinta oleh [@aguswerdhi](https://github.com/aguswerdhi), seorang pengembang yang percaya bahwa terminal pun bisa menjadi tempat renungan dan perenungan.
 
 Bahasa pemrograman: **Python 3**  
-Bahasa cerita: **Bahasa Indonesia dan Inggris**  
+Bahasa cerita: **Bahasa Indonesia dan Sedikit Bahasa Inggris**  
 
 ---
 
