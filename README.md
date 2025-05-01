@@ -3,14 +3,6 @@
 *A terminal-based philosophical narrative game.*  
 **Dalam dunia yang belum ternoda, kamu adalah entitas pertama yang memiliki kehendak. Lewat pilihan-pilihan etis, kamu membentuk fondasi dari peradaban — apakah dunia akan tetap suci, atau perlahan jatuh ke dalam dosa?**
 
----
-
-## 🌐 Bahasa | Language
-
-- 🇮🇩 [Versi Indonesia](#🇮🇩-petunjuk-dalam-bahasa-indonesia)
-- 🇬🇧 [English Version](#️-english-instructions)
-
----
 
 ## 🇮🇩 Petunjuk dalam Bahasa Indonesia
 
